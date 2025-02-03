@@ -8,6 +8,6 @@ En attentant la validation de l'extension par Google.
 
 ## Voir la version Firefox ici : 
 
-https://github.com/emulsion-io/extention-chrome-extract-seo-tools
+https://github.com/emulsion-io/extention-firefox-extract-seo-tools
 
 https://addons.mozilla.org/fr/firefox/addon/extract-seo-tools/
