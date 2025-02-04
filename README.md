@@ -4,7 +4,7 @@ Copie le title, meta description et le texte alternatif d'une image
 
 ## Lien vers l'extension Chrome
 
-En attentant la validation de l'extension par Google.
+https://chromewebstore.google.com/detail/extract-seo-tools/fmfkcmnnjhafdjkfcbabhijdgjcchmpi?authuser=0&hl=fr
 
 ## Voir la version Firefox ici : 
 
